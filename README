@@ -21,11 +21,11 @@ Explore the basics of data manipulation using Jupyter, Pandas, and Numpy. This t
 **Focus**: Image Classification
 
 ### Part (a): Two-Class Classification
-- **Dataset Preparation**: Prepare a dataset with two classes (cloudy and sunrise).
+- **Dataset Preparation**: Prepare a dataset with two classes (e.g., cloudy and sunrise).
 - **Model Creation**: Build a CNN model to classify images.
 - **Training the Network**: Train the model using the prepared dataset.
 - **Testing the Network**: Evaluate the model on test data.
-- **Presenting Results**: Display results with metrics like accuracy and confusion matrix.
+- **Presenting Results**: Display results with metrics such as accuracy and confusion matrix.
 
 ### Part (b): Four-Class Classification
 - **Extending the Dataset**: Expand the dataset to include four classes.
@@ -64,7 +64,7 @@ Explore the basics of data manipulation using Jupyter, Pandas, and Numpy. This t
 - **Objective**: Explore how adversarial attacks can manipulate machine learning models. This task demonstrates how slight alterations to an image can deceive a classifier while the image remains visually unchanged to a human observer.
 
 ## Task 7: Project CNN Model MNIST Classifier
-- **Building the CNN Model**: Conv2D, MaxPooling2D, Flatten, Dense
-- **Model Summary**
-- **Training the CNN**
-- **Evaluating the Model**
+- **Building the CNN Model**: Implement Conv2D, MaxPooling2D, Flatten, Dense layers.
+- **Model Summary**: Provide a summary of the model architecture.
+- **Training the CNN**: Train the CNN model on the MNIST dataset.
+- **Evaluating the Model**: Evaluate the performance of the CNN on test data.
