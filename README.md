@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning Labs
+# Machine Learning and Deep Learning
 
 This repository contains various tasks and projects focused on data manipulation, machine learning, deep learning, and adversarial attacks. Each task is organized into a separate section with detailed descriptions of the subtasks involved.
 
@@ -7,7 +7,7 @@ This repository contains various tasks and projects focused on data manipulation
 
 Explore the basics of data manipulation using Jupyter, Pandas, and Numpy. This task serves as a foundation for handling and processing data in subsequent tasks.
 
-## Task 2: Data Mining using scikit-learn
+## Task 2: Data Mining
 **Focus**: Data Preparation and Model Training
 
 ### Subtasks:
@@ -21,7 +21,7 @@ Explore the basics of data manipulation using Jupyter, Pandas, and Numpy. This t
 **Focus**: Image Classification
 
 ### Part (a): Two-Class Classification
-- **Dataset Preparation**: Prepare a dataset with two classes (e.g., cloudy and sunrise).
+- **Dataset Preparation**: Prepare a dataset with two classes.
 - **Model Creation**: Build a CNN model to classify images.
 - **Training the Network**: Train the model using the prepared dataset.
 - **Testing the Network**: Evaluate the model on test data.
@@ -45,17 +45,17 @@ Explore the basics of data manipulation using Jupyter, Pandas, and Numpy. This t
 
 ### Part (b): Transfer Learning
 - **Using ResNet50 for Transfer Learning**: Leverage a pre-trained ResNet50 model.
-- **Model Creation**: Adapt ResNet50 for the specific task of flower classification.
-- **Training and Evaluation**: Train and evaluate the model using the flower dataset.
+- **Model Creation**: Adapt ResNet50 for the specific task of classification.
+- **Training and Evaluation**: Train and evaluate the model using the dataset.
 - **Input Structure**: Combine ResNet50 layers with a fully connected dense network for classification.
 
 ## Task 5: Recurrent Neural Networks (RNNs)
 **Focus**: Sequence to Sequence Translation
 
-### Part (a): number2roman
+### Part (a): num2rom
 - **Task**: Create an RNN that translates numbers (1-200) into their Roman numeral representations.
 
-### Part (b): roman2number
+### Part (b): rom2num
 - **Task**: Create an RNN that translates Roman numeral sequences (1-200) into their corresponding numbers.
 
 ## Task 6: Adversarial Attacks
